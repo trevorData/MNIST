@@ -1,4 +1,4 @@
-# [Main Plot(]https://i.imgur.com/8ou9XUP.gif)
+# [Main Plot](https://i.imgur.com/8ou9XUP.gif)
 
 ### How three machine learning algorithms try to classify handwritten digits as they are being drawn**
 

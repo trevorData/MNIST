@@ -32,4 +32,5 @@ Individual gifs:
 ---
 
 Data from [MNIST Handwritten Digit Database](http://yann.lecun.com/exdb/mnist/)
+
 Gif made with imagemagick
